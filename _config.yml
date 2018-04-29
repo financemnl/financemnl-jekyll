@@ -59,14 +59,14 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : "http://feeds.feedburner.com/financemnl" # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : "51MZYVWE74" # YOUR_APPLICATION_ID
+  index_name             : "financemnl" # YOUR_INDEX_NAME
+  search_only_api_key    : "6c78ca37e0cfc7a1a596fb63585b1371" # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : "false" # true (default), false
 
 # SEO Related
 google_site_verification :
@@ -91,9 +91,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-117242242-1"
 
 
 # Site Author
@@ -255,9 +255,9 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-algolia
 
 # HTML Compression
 # - http://jch.penibelst.de/
