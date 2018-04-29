@@ -13,8 +13,9 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<link rel="preload" href="https://d33wubrfki0l68.cloudfront.net/css/cc57780881a2acc9bc4d0d99e745177ef5a09770/assets/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'" >
-<noscript><link rel="stylesheet" href="https://d33wubrfki0l68.cloudfront.net/css/cc57780881a2acc9bc4d0d99e745177ef5a09770/assets/css/main.css"></noscript>
+<link rel="preload" href="https://financemnl.com/assets/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://financemnl.com/assets/css/main.css"></noscript>
+
 <script>
   {% include loadCSS.js %}
 </script>
@@ -24,7 +25,7 @@
 {% elsif page.layout == 'archive' or page.layout == 'categories' or page.layout == 'tags' or page.layout == 'tag' %}
   <style>{% include critical-archive.css %}</style>
 {% elsif page.layout == 'post' or page.layout == 'page' %}
-   <style>{% include critical-post.css %}</style>
+  <style>{% include critical-post.css %}</style>
 {% endif %}
 
 {% if site.plugins contains 'jekyll-sitemap' %}
