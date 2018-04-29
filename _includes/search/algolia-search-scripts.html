@@ -1,3 +1,6 @@
+---
+layout: null
+---
 <!-- Including InstantSearch.js library and styling -->
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css">
@@ -5,13 +8,13 @@
 
 <script>
 const search = instantsearch({
-  appId: '{{ site.algolia.application_id }}',
-  apiKey: '{{ site.algolia.search_only_api_key }}',
-  indexName: '{{ site.algolia.index_name }}',
+  appId: "{{ site.algolia.application_id }}",
+  apiKey: "{{ site.algolia.search_only_api_key }}",
+  indexName: "{{ site.algolia.index_name }}",
   searchParameters: {
     restrictSearchableAttributes: [
-      'title',
-      'content'
+      "title",
+      "content"
     ]
   }
 });
@@ -33,14 +36,14 @@ const hitTemplate = function(hit) {
 
 search.addWidget(
   instantsearch.widgets.searchBox({
-    container: '.search-searchbar',
+    container: ".search-searchbar",
     {% unless site.algolia.powered_by == false %}poweredBy: true,{% endunless %}
-    placeholder: '{{ site.data.ui-text[site.locale].search_placeholder_text | default: "Enter your search term..." }}'
+    placeholder: "{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}"
   })
 );
 search.addWidget(
   instantsearch.widgets.hits({
-    container: '.search-hits',
+    container: ".search-hits",
     templates: {
       item: hitTemplate
     }
