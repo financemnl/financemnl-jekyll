@@ -21,11 +21,11 @@ title_separator          : "-"
 logo                     : "https://res.cloudinary.com/financemnl/image/upload/v1524808021/header.png"
 name                     : "FinanceMNL"
 description              : "Founded in 2018, FinanceMNL is an independent personal finance site providing free advice for young adults wanting to make informed decisions about where their money goes."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://financemnl.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs            : true # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 165
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
