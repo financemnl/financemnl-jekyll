@@ -1,0 +1,41 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: /wiki/getting-started
+  - title: "About"
+    url: /about/
+  # - title: "Archives"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+wiki:
+  - title: Getting Started
+    children:
+    - title: Welcome
+      url: "/wiki/getting-started/"
+    - title: Introduction
+      url: "/wiki/introduction/"
+    - title: Budget & Reduce Expenses
+      url: "/wiki/budgeting"
+    - title: Emergency Fund
+      url: "/wiki/emergency-fund/"
+  - title: Road to Financial Independence
+    children:
+    - title: Employer-Sponsored Matching Funds
+      url: "/wiki/employer-sponsored-funds/"
+    - title: Pay Down High Interest Debt
+      url: "/wiki/pay-high-interest-debt/"
+  - title: Building Wealth and Security
+    children:
+    - title: Save for Required Large Purchase or Personal Investment
+      url: "/wiki/save-for-large-purchases"
+    - title: Save for Retirement
+      url: "/wiki/save-for-retirement"
+  - title: Reaching Financial Maturity
+    children:
+    - title: Pay Down Low Interest Debt
+      url: "/wiki/pay-low-interest-debt"
+    - title: Save for Other Goals
+      url: "/wiki/save-for-other-goals"

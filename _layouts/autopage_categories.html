@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% assign taxonomy = page.autopages.display_name | downcase | slugify %}
+{% assign tag = site.data.taxonomy[taxonomy] %}
+
+{% assign header_pre = "" %}
+{% if site.type == "tag" %}
+  {% assign header_pre = "Tagged with " %}
+{% else %}
+  {% assign header_pre = "Categorized in " %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    <h1 class="page__title">Categorized in {{ page.title }}</h1>
+    <div class="archive__taxonomy">
+    {% for post in paginator.posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+    </div>
+    {% include paginator.html %}
+  </div>
+</div>

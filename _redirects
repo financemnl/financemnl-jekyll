@@ -1,0 +1,4 @@
+# Redirects from what the browser requests to what we serve
+/wiki                                /wiki/getting-started/
+/post/how-to-handle-your-peso        /general/how-to-handle-your-peso/
+/offline.html                        /offline/
