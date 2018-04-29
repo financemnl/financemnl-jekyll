@@ -61,7 +61,7 @@ atom_feed:
   path                   : "http://feeds.feedburner.com/financemnl" # blank (default) uses feed.xml
 search                   : true
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia
+search_provider          : algolia # lunr (default), algolia
 algolia:
   application_id         : "51MZYVWE74" # YOUR_APPLICATION_ID
   index_name             : "financemnl" # YOUR_INDEX_NAME
