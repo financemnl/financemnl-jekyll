@@ -189,6 +189,7 @@ include:
   - offline.html
   - _headers
   - _redirects
+  - manifest.json
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
