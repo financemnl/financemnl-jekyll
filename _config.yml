@@ -257,7 +257,6 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-feed
-  - jemoji
   - jekyll-algolia
 
 # HTML Compression
