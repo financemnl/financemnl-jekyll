@@ -1,0 +1,112 @@
+---
+pages:
+- _wiki/09-save-for-other-goals.md
+- _wiki/08-pay-down-low-interest-debt.md
+- _wiki/07-save-for-retirement.md
+- _wiki/06-save-for-large-purchase-or-personal-investment.md
+- _wiki/05-pay-high-interest-debt.md
+- _wiki/04-employer-sponsored-funds.md
+- _wiki/03-emergency-fund.md
+- _wiki/02-budgeting.md
+- _wiki/01-introduction.md
+- _wiki/00-getting-started.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: header
+  label: Header
+  type: field_group
+  fields:
+  - name: overlay_image
+    label: Overlay image
+    type: textarea
+    hidden: false
+    default: ''
+  - name: overlay_filter
+    label: Overlay filter
+    type: text
+    hidden: false
+    default: ''
+  - name: show_overlay_excerpt
+    label: Show overlay excerpt
+    type: boolean
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: toc
+  label: Toc
+  type: boolean
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: comments
+  label: Comments
+  type: boolean
+  hidden: false
+  default: true
+- name: last_modified_at
+  label: Last modified at
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: single
+- name: read_time
+  label: Read time
+  type: boolean
+  hidden: false
+  default: true
+- name: related
+  label: Related
+  type: boolean
+  hidden: false
+  default: false
+- name: author_profile
+  label: Author profile
+  type: boolean
+  hidden: false
+  default: false
+- name: share
+  label: Share
+  type: boolean
+  hidden: false
+  default: true
+- name: sidebar
+  label: Sidebar
+  type: field_group
+  fields:
+  - name: nav
+    label: Nav
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 

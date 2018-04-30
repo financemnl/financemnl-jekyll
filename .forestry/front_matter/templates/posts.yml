@@ -1,0 +1,78 @@
+---
+pages:
+- _posts/2018-04-22-creating-and-managing-your-budget.md
+- _posts/2018-04-20-how-to-handle-your-peso.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: comments
+  label: Comments
+  type: boolean
+  hidden: false
+  default: true
+- name: header
+  label: Header
+  type: field_group
+  fields:
+  - name: teaser
+    label: Teaser
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: single
+- name: author_profile
+  label: Author profile
+  type: boolean
+  hidden: false
+  default: ''
+- name: read_time
+  label: Read time
+  type: boolean
+  hidden: false
+  default: true
+- name: share
+  label: Share
+  type: boolean
+  hidden: false
+  default: true
+- name: related
+  label: Related
+  type: boolean
+  hidden: false
+  default: true
+- name: toc
+  label: Toc
+  type: boolean
+  hidden: false
+  default: ''
