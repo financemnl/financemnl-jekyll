@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "finance" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "FinanceMNL"
 title_separator          : "-"
-logo                     : "http://res.cloudinary.com/financemnl/image/upload/s--oMbU2HTk--/q_jpegmini/v1525060044/FinanceMNL576x192_1.png"
+logo                     : "https://res.cloudinary.com/financemnl/image/upload/s--oMbU2HTk--/q_jpegmini/v1525060044/FinanceMNL576x192_1.png"
 name                     : "FinanceMNL"
 description              : "Founded in 2018, FinanceMNL is an independent personal finance site providing free advice for young adults wanting to make informed decisions about where their money goes."
 url                      : "https://financemnl.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -58,7 +58,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : "http://feeds.feedburner.com/financemnl" # blank (default) uses feed.xml
+  path                   : "https://feeds.feedburner.com/financemnl" # blank (default) uses feed.xml
 search                   : true
 search_full_content      : # true, false (default)
 search_provider          : algolia # lunr (default), algolia
