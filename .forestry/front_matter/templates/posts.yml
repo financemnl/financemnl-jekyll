@@ -45,6 +45,14 @@ fields:
     type: textarea
     hidden: false
     default: ''
+  - type: text
+    name: overlay_image
+    label: Overlay Image
+    description: Header Image
+  - type: text
+    name: overlay_filter
+    label: Overlay Filter
+    default: '0.10'
   hidden: false
   default: ''
 - name: layout
