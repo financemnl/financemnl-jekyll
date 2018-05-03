@@ -22,7 +22,7 @@ excerpt: This article describes what is an emergency fund, how much do you need,
   if they're worth saving for.
 header:
   overlay_image: "/assets/images/uploads/header/pexels-photo-149904.jpeg"
-  teaser: "/assets/images/uploads/header/pexels-photo-256621.jpeg"
+  teaser: https://res.cloudinary.com/financemnl/image/upload/s--zPYh6xLp--/c_scale,q_jpegmini,w_580/v1525332894/pexels-photo-52608.jpg
 ---
 Life is full of surprises, but you can be better prepared to handle them by building an emergency fund.
 
@@ -66,7 +66,8 @@ If you're having difficulties saving and summing up all your monthly _minimum_ e
 * 3-6 months of transportation/car expenses Php 8,000 x 6 months
 * 3-6 months of job hunting expenses = Php 4,000 x 6 months
 
-Why is the rule of thumb three to six months? It has to do with how long it takes to find a job--and how long it would take to make the necessary adjustments if you _couldn't_ find another job. Three months is barely enough, because it's not unusual for it to take a month or two to find a new job, even if the job market is strong.{: .notice--info}
+Why is the rule of thumb three to six months? It has to do with how long it takes to find a job--and how long it would take to make the necessary adjustments if you _couldn't_ find another job. Three months is barely enough, because it's not unusual for it to take a month or two to find a new job, even if the job market is strong.
+{: .notice--info}
 
 ---
 
