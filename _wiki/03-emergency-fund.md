@@ -47,7 +47,3 @@ If you are currently repaying high interest (for example above 10% interest) deb
 Emergency funds should be put in safe, liquid accounts such as savings accounts. The goal is for the fund to never decrease in value and to be able to retrieve the money very quickly should the need arise.
 
 They should **not** be put in any type of investment as this could result in losses or even in the impossibility to get the money out quickly. As well, **a credit card should not be considered an emergency fund** because of the high interest.
-
----
-
-Want to learn more about the importance of emergency funds? [Yes!](){: .btn .btn--success}
