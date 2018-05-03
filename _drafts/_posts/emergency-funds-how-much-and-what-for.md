@@ -24,45 +24,59 @@ header:
   overlay_image: "/assets/images/uploads/header/pexels-photo-149904.jpeg"
   teaser: "/assets/images/uploads/header/pexels-photo-256621.jpeg"
 ---
-Discuss previous emergency fund article then provide backlink [https://financemnl.com/wiki/emergency-fund/](https://financemnl.com/wiki/emergency-fund/ "https://financemnl.com/wiki/emergency-fund/")
+Life is full of surprises, but you can be better prepared to handle them by building an emergency fund.
 
-Summary:
+{% include video id="zQoIsJDiBXk" provider="youtube" %}
 
-* Point out the recommended 3 to 6 months of expense na stated sa WIKI
-* Build up and ask the reader (so how much ba talaga yung pera na kailangan)
-* Then sabihin na it depends sa comfort level nila. Some people save 3 to 6 months worth of salary. Some save 3 to 6 months worth of expense.
-* State din na to determine the comfort level, alamin nila na if mawalan sila ng work today, magkano kailangan nila or ilang months kailangan before makahanap ulit ng bago na trabaho.
-* State din sa users kung kailan sila mag start mag save for emergency fund = After magbayad ng MINIMUM payment sa mga debt.
-* Recommend other ways to save up for an emergency fund para nakaka inspire
-  * 6 months of groceries ($xxx)
-  * 6 months of utility bills ($xxx)
-  * 6 months of rent ($xxx)
-  * 6 months of entertainment money ($xxx)
-  * 6 months of car expenses ($xxx)
+The [usual rule of thumb is 3 to 6 months worth of expenses](https://financemnl.com/wiki/emergency-fund/). Of course that's silly--the size of your emergency fund needs to be based on your spending, not your income.
 
-Section:
+But how much do we really need in order to achieve financial peace? **Does anyone need an emergency fund**?
 
-1. Foreword (The usual rule of thumb is 3 to 6 months' income. Of course that's silly--the size of your emergency fund needs to be based on your spending, not your income. But even 3 to 6 months' spending is an arbitrary figure. Here's a few tips on sizing your emergency fund.)
-2. Do you need an emergency fund? (We certainly think you do, but there are those who have different ideas. state yung mga tao na invest muna nasa isip)
-3. Para saan? / Pupose (The basic purpose of an emergency fund is to tide you over if you lose your job. Because money is fungible, the same emergency fund can cover other financial gaps--unexpected expenses, or the unexpected loss of non-job income. It's there to give you some time to make the necessary adjustments when a gap develops between income and expenses--either get your income back up or cut your expenses down to match whatever income you can manage.)
-4. How much??  (Reference)
-5. How many months?
-6. Where to keep? (link dito yung wiki ulit [https://financemnl.com/wiki/emergency-fund/#where-should-i-put-my-emergency-fund](https://financemnl.com/wiki/emergency-fund/#where-should-i-put-my-emergency-fund "https://financemnl.com/wiki/emergency-fund/#where-should-i-put-my-emergency-fund") )
-7. Stay tuned kung ano ba talaga dapat unahin, i.e **Which Comes First? Saving an Emergency Fund or Paying off Debt?**
+## Do you need an emergency fund?
 
-References:
+We certainly think you do, but there are those who have different ideas.
+
+There are some who would have invest all your savings to stocks or equities. Under their plan, if you have an emergency, you just charge it on a credit card and then pay off the debt out of income.
+
+That's not a crazy plan, but we would only consider it if you have: a **good job** in a growing field, **experience and credentials** that would let you quickly find another, and **your expenses are low** compared to your income. Otherwise, you definitely need an emergency fund.
+
+## What is it for?
+
+The basic purpose of an emergency fund is to tide you over if you lose your job. Because money is fungible, the same emergency fund can cover other financial gaps--unexpected expenses, or the unexpected loss of non-job income.
+
+## How much do I really need?
 
 The basic factor in the calculation is one month's _minimum expenses._
 
 If you don't have a budget, make a list of:
 
-* **Minimum monthly bills** This is basically all your bills that are either necessary to live, or that you are contractually obligated to pay: rent or mortgage, utilities, car payment, other debt payments, etc. Depending on contract terms, you may have monthly bills that could be canceled on a month's notice or less--cable TV, fitness club membership, and so on. If you _would_ cancel these in the event of a short-term financial crises, you can leave them off the list. Otherwise, include them.
-* **Routine monthly expense** This includes groceries, gas for the car, cost of prescriptions beyond what insurance covers, etc. You can take a minimalist approach here--assume you'll be eating lots of rice and beans--but be realistic.
-* **Job-hunting expenses** Be sure to include all the expenses that you'd need to support a job search--your phone bill, internet access, enough money for gas (or bus tokens) to get to job interviews, dry cleaning for interview clothing, etc.
-* **Other mandatory expenses** This would be tuition, taxes, insurance payments (monthly share for annual expenses), etc.
+* **Immediate Obligations -** are guaranteed to happen, and repeat every month.
+
+  Typically, they’re expenses related to survival, like groceries, utilities and rent. Immediate obligations also include your _minimum_ payments on debt. Once you’ve got those covered, you move on to …
+* **Job-hunting expenses** **-** be sure to include all the expenses that you'd need to support a job search--your phone bill/load, internet/date access, enough money for gas (or bus, train, jeep fares) to get to job interviews, etc.
+* **Other mandatory expenses** This would be tuition, insurance payments (monthly share for annual expenses), etc.
 
 Add that up. That should give you your rock-bottom expenses for one month.
 
-START WRITING HERE
+If you're having difficulties saving and summing up all your monthly _minimum_ expenses, here's a method we use with our budgeting tool [YNAB](https://ynab.com/referral/?ref=_YeVA4iWCdYA-ErN&utm_source=customer_referral) -- this method can also be applied with [other budgeting tools](https://financemnl.com/budgeting/creating-and-managing-your-budget/#toolssystems).
+
+* 3-6 months of groceries = Php 5,000 x 6 months
+* 3-6 months of utility bills = Php 6,000 x 6 months
+* 3-6 months of rent = Php 8,000 x 6 months
+* 3-6 months of transportation/car expenses Php 8,000 x 6 months
+* 3-6 months of job hunting expenses = Php 4,000 x 6 months
+
+Why is the rule of thumb three to six months? It has to do with how long it takes to find a job--and how long it would take to make the necessary adjustments if you _couldn't_ find another job. Three months is barely enough, because it's not unusual for it to take a month or two to find a new job, even if the job market is strong.{: .notice--info}
 
 ---
+
+## Saving up for an emergency fund.
+
+Your emergency fund should come first! You heard that right, _debt_—we’ll deal with you later (soon, but later).
+
+So, if you’re paying attention, you budget in this order:
+
+1. Immediate obligations (like rent or minimum debt payments)
+2. Emergency fund (you decide the right size, based on your life!)
+
+And that leaves us with debt payments. Any money that you have left after you’ve covered these two buckets should go towards your debt!
