@@ -21,7 +21,7 @@ categories:
 excerpt: This article describes what is an emergency fund, how much do you need, and
   if they're worth saving for.
 header:
-  overlay_image: http://res.cloudinary.com/financemnl/image/upload/s--qI6VGWiw--/c_scale,q_jpegmini,w_1920/v1525332891/michael-jasmund-581395-unsplash.jpg
+  overlay_image: https://res.cloudinary.com/financemnl/image/upload/s--qI6VGWiw--/c_scale,q_jpegmini,w_1920/v1525332891/michael-jasmund-581395-unsplash.jpg
   teaser: https://res.cloudinary.com/financemnl/image/upload/s--zPYh6xLp--/c_scale,q_jpegmini,w_580/v1525332894/pexels-photo-52608.jpg
   overlay_filter: '0.10'
 ---
