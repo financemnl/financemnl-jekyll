@@ -10,7 +10,18 @@
 {% else %}
   <script defer src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
   <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous"></noscript>
-{% endif %}
+  <script>
+    (function() {
+        var font2 = document.createElement('link'); 
+        font.type = 'text/css'; 
+        font2.type = 'text/css'; 
+        font2.rel = 'stylesheet';
+        font2.href = 'https://use.fontawesome.com/releases/v5.0.9/css/all.css'; 
+        var t = document.getElementsByTagName('link')[0]; 
+        t.parentNode.insertBefore(font2, t);
+      })();
+  </script>
+  {% endif %}
 
 {% if site.search == true or page.layout == "search" %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
