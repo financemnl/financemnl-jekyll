@@ -8,19 +8,9 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% else %}
-  <script defer src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+  <script async src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+  <link rel="preload" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous" as="style">
   <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous"></noscript>
-  <script>
-    (function() {
-        var font2 = document.createElement('link'); 
-        font.type = 'text/css'; 
-        font2.type = 'text/css'; 
-        font2.rel = 'stylesheet';
-        font2.href = 'https://use.fontawesome.com/releases/v5.0.9/css/all.css'; 
-        var t = document.getElementsByTagName('link')[0]; 
-        t.parentNode.insertBefore(font2, t);
-      })();
-  </script>
   {% endif %}
 
 {% if site.search == true or page.layout == "search" %}
