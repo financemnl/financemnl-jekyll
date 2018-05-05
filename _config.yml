@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "finance" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "FinanceMNL"
 title_separator          : "-"
-logo                     : "https://res.cloudinary.com/financemnl/image/upload/s--oMbU2HTk--/q_jpegmini/v1525060044/FinanceMNL576x192_1.png"
+logo                     : "https://res.cloudinary.com/financemnl/image/upload/s--03wU2RrD--/q_jpegmini:2/v1525060044/FinanceMNL576x192_1.png"
 name                     : "FinanceMNL"
 description              : "Founded in 2018, FinanceMNL is an independent personal finance site providing free advice for young adults wanting to make informed decisions about where their money goes."
 url                      : "https://financemnl.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "FinanceMNL"
-  avatar           : "https://res.cloudinary.com/financemnl/image/upload/v1524808020/avatar.png"
+  avatar           : "https://res.cloudinary.com/financemnl/image/upload/s--VtJW1xQi--/q_jpegmini:2/v1524808020/avatar.png"
   bio              : "A Filipino Millennial's Approach on Personal Finance."
   location         : "Manila, Philippines"
   email            :
