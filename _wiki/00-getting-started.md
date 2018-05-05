@@ -38,7 +38,7 @@ We can also help you make smarter choices when it comes to buying decisions like
 
 ---
 
-If you're ready, **let's start**.btn .btn--info.
+If you're ready, **let's start**{: .btn .btn--success}.
 
 Stay tuned while we add more information and tips for each step. Thanks!
 {: .notice--info}
